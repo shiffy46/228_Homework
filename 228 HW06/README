@@ -1,0 +1,7 @@
+You need to implement all the methods defined in CustomClass, inside the AList, LList, and LListWithTail of Weeks 6 and 7. 
+
+Also, you need to implement a single method in SortingExercise class. 
+
+Read the comments in CustomClass and SortingExercise classes carefully. 
+
+Copy all the files in the templates folder HW06_Templates.zip into a package named edu.iastate.cs228.hw06.
