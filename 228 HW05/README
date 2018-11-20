@@ -1,0 +1,5 @@
+You need to implement all the methods that have inside their bodies the "//TODO" comment in each of the following three source code files: 
+
+ArrayPriorityQueue.java, LinkedPriorityQueue.java, and SortingExercises.java. Read the comments in these three files carefully.
+
+Copy all the files in the templates folder hw05_Templates.zip into a package named edu.iastate.cs228.hw05.
