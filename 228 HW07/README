@@ -1,1 +1,11 @@
+You need to implement all the methods and constructors in 
 
+ResizableArrayBag, LinkedBag, and SearchingExercises classes with a comment in body "// TODO". 
+
+In case of the latter there are only two methods that need to be implemented, however, 
+note that there is a single question for each that needs to be answered after you finish implementing those. 
+
+Answers need to be provided inside the comment where indicated. 
+
+Regarding Big-Oh of these two methods, we do not require the best/fastest/most efficient implementation, 
+but require that you are able to explain your own implementation's time complexity and provide Big-Oh representation of it. 
